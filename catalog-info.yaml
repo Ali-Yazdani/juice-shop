@@ -4,6 +4,7 @@ metadata:
   name: juice-shop
   annotations:
     github.com/project-slug: Ali-Yazdani/juice-shop
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: other
   lifecycle: unknown
