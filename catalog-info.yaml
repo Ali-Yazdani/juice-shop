@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: juice-shop
+  annotations:
+    github.com/project-slug: Ali-Yazdani/juice-shop
+spec:
+  type: other
+  lifecycle: unknown
+  owner: team-a
